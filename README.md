@@ -1,4 +1,8 @@
-### 🙋‍♀️ Olá! Eu sou Aline Evangelista, estudante de Sistemas para a internet.✨
+
+## 🙋‍♀️ Olá! Meu nome é Aline Evangelista.✨ 
+
+Atualmente estou cursando <b>Sistemas para Intenet</b> pela Fatec Taquaritinga. Meu <b>objetivo</b> é crescer na ária de programação e continuar apendendo cada vez mais.
+<br><br>
 <div align="center">
   <a href="https://github.com/AlineSillva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineSillva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
