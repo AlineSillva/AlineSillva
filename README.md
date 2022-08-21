@@ -1,7 +1,7 @@
 
 ## 🙋‍♀️ Olá! Meu nome é Aline Evangelista.✨ 
 
-Atualmente estou cursando <b>Sistemas para Intenet</b> pela Fatec Taquaritinga. Meu <b>objetivo</b> é crescer na ária de programação e continuar apendendo cada vez mais.
+Atualmente estou cursando <b>Sistemas para Intenet</b> pela Fatec Taquaritinga. Meu <b>objetivo</b> é crescer na ária de programação e continuar aprendendo cada vez mais.
 <br><br>
 <div align="center">
   <a href="https://github.com/AlineSillva">
