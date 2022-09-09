@@ -11,7 +11,7 @@
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Aline-gif" width="200" src="https://community.vtex.com/uploads/default/original/2X/c/cc41052580aaf086ae2e2677611d982592876e64.gifv">
+  <img align="right" alt="Aline-gif" width="240" src="https://community.vtex.com/uploads/default/original/2X/c/cc41052580aaf086ae2e2677611d982592876e64.gifv">
  
  
 </div>
